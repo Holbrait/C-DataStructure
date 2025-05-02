@@ -1,0 +1,7 @@
+C:\Repo\Library System\Library System\obj\Debug\Library System.csproj.AssemblyReference.cache
+C:\Repo\Library System\Library System\obj\Debug\Library System.csproj.CoreCompileInputs.cache
+C:\Repo\Library System\Library System\bin\Debug\Library System.exe.config
+C:\Repo\Library System\Library System\bin\Debug\Library System.exe
+C:\Repo\Library System\Library System\bin\Debug\Library System.pdb
+C:\Repo\Library System\Library System\obj\Debug\Library System.exe
+C:\Repo\Library System\Library System\obj\Debug\Library System.pdb
