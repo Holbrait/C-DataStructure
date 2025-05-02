@@ -1,0 +1,7 @@
+C:\Repo\Shapes and areas\Shapes and areas\bin\Debug\Shapes and areas.exe.config
+C:\Repo\Shapes and areas\Shapes and areas\bin\Debug\Shapes and areas.exe
+C:\Repo\Shapes and areas\Shapes and areas\bin\Debug\Shapes and areas.pdb
+C:\Repo\Shapes and areas\Shapes and areas\obj\Debug\Shapes and areas.csproj.AssemblyReference.cache
+C:\Repo\Shapes and areas\Shapes and areas\obj\Debug\Shapes and areas.csproj.CoreCompileInputs.cache
+C:\Repo\Shapes and areas\Shapes and areas\obj\Debug\Shapes and areas.exe
+C:\Repo\Shapes and areas\Shapes and areas\obj\Debug\Shapes and areas.pdb

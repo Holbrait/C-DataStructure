@@ -1,0 +1,25 @@
+﻿// written by Holbrait
+// 02/27/25
+
+using System;
+
+public class Circle : Shape
+{
+    public double Radius { get; set; }
+
+    public Circle(string color, double radius)
+        : base(color)
+    {
+        Radius = radius;
+    }
+
+    public override double GetArea()
+    {
+        return Math.PI * Radius * Radius;
+    }
+
+    public override string ToString()
+    {
+        return Color + " Circle, Radius: " + Radius + ", Area: " + GetArea();
+    }
+}
