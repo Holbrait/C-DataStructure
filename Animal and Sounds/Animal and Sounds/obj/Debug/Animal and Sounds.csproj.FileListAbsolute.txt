@@ -1,0 +1,7 @@
+C:\Repo\Animal and Sounds\Animal and Sounds\bin\Debug\Animal and Sounds.exe.config
+C:\Repo\Animal and Sounds\Animal and Sounds\bin\Debug\Animal and Sounds.exe
+C:\Repo\Animal and Sounds\Animal and Sounds\bin\Debug\Animal and Sounds.pdb
+C:\Repo\Animal and Sounds\Animal and Sounds\obj\Debug\Animal and Sounds.csproj.AssemblyReference.cache
+C:\Repo\Animal and Sounds\Animal and Sounds\obj\Debug\Animal and Sounds.csproj.CoreCompileInputs.cache
+C:\Repo\Animal and Sounds\Animal and Sounds\obj\Debug\Animal and Sounds.exe
+C:\Repo\Animal and Sounds\Animal and Sounds\obj\Debug\Animal and Sounds.pdb

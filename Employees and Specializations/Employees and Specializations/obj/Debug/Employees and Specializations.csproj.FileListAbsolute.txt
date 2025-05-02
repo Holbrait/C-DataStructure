@@ -1,0 +1,7 @@
+C:\Repo\Employees and Specializations\Employees and Specializations\bin\Debug\Employees and Specializations.exe.config
+C:\Repo\Employees and Specializations\Employees and Specializations\bin\Debug\Employees and Specializations.exe
+C:\Repo\Employees and Specializations\Employees and Specializations\bin\Debug\Employees and Specializations.pdb
+C:\Repo\Employees and Specializations\Employees and Specializations\obj\Debug\Employees and Specializations.csproj.AssemblyReference.cache
+C:\Repo\Employees and Specializations\Employees and Specializations\obj\Debug\Employees and Specializations.csproj.CoreCompileInputs.cache
+C:\Repo\Employees and Specializations\Employees and Specializations\obj\Debug\Employees and Specializations.exe
+C:\Repo\Employees and Specializations\Employees and Specializations\obj\Debug\Employees and Specializations.pdb
