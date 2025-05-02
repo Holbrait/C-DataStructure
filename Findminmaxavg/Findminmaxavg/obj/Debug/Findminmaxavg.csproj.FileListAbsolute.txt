@@ -1,0 +1,7 @@
+C:\Repo\Findminmaxavg\Findminmaxavg\obj\Debug\Findminmaxavg.csproj.AssemblyReference.cache
+C:\Repo\Findminmaxavg\Findminmaxavg\obj\Debug\Findminmaxavg.csproj.CoreCompileInputs.cache
+C:\Repo\Findminmaxavg\Findminmaxavg\bin\Debug\Findminmaxavg.exe.config
+C:\Repo\Findminmaxavg\Findminmaxavg\bin\Debug\Findminmaxavg.exe
+C:\Repo\Findminmaxavg\Findminmaxavg\bin\Debug\Findminmaxavg.pdb
+C:\Repo\Findminmaxavg\Findminmaxavg\obj\Debug\Findminmaxavg.exe
+C:\Repo\Findminmaxavg\Findminmaxavg\obj\Debug\Findminmaxavg.pdb

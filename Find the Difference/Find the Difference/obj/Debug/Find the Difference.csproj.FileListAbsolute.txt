@@ -1,0 +1,7 @@
+C:\Repo\Find the Difference\Find the Difference\bin\Debug\Find the Difference.exe.config
+C:\Repo\Find the Difference\Find the Difference\bin\Debug\Find the Difference.exe
+C:\Repo\Find the Difference\Find the Difference\bin\Debug\Find the Difference.pdb
+C:\Repo\Find the Difference\Find the Difference\obj\Debug\Find the Difference.csproj.AssemblyReference.cache
+C:\Repo\Find the Difference\Find the Difference\obj\Debug\Find the Difference.csproj.CoreCompileInputs.cache
+C:\Repo\Find the Difference\Find the Difference\obj\Debug\Find the Difference.exe
+C:\Repo\Find the Difference\Find the Difference\obj\Debug\Find the Difference.pdb
